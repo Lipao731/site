@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 35px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid orange;
+}
+
+.centro {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+il {
+    list-style-type: none;
+}
+
+
+footer img {
+   width: 40px;
+   height: 40px;
+    
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+    footer a {
+        margin: 20px;
+        text-align: center;
+    }
+
+    footer p {
+        margin-top: 2px;
+    }
+
+ .container {
+    padding: 0px 50px;
+ }
+
+ nav a:hover {
+    color: orangered;
+ }
+
+body {
+    background-image: url(./imagens/Dragon-Ball-Z-Kakarot-Wallpaper-4K-119579.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
